@@ -1,0 +1,146 @@
+/* Default CSS */
+#banner{
+	background-color:white;
+	border: double;
+	border-color:#475CCB;
+	width:100%
+		
+}
+
+    
+body {background-color:#3A87B1; 
+	background-image:url('images/newportnight2.jpg');
+background-repeat: no-repeat; 
+background-attachment: fixed; 
+background-position: center; 
+
+
+font-family:"Trebuchet MS", verdana, arial, sans-serif;
+
+
+}
+#MainBody{
+margin-left:10%;
+margin-right:10%;
+font-size: 150%;	
+text-shadow: 1px 1px #8B8A8A;
+	
+}
+
+footer{
+	
+	padding-top:15px;
+	background-color:;
+	padding-right: 0px;
+  padding-left: 0px;
+  padding-bottom:0px;
+border-style: hidden;
+border-top: solid;
+width:100%;
+background-color:white;
+font-size: 120%;
+font-style:italic;
+margin-top:50px
+}
+
+
+#BookingForm{
+	margin:50px;
+	
+	
+}
+#map{
+	margin-top:30px;	
+}
+
+#column{
+	
+	background-color: white;
+	border:5px solid;
+-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 20px;
+padding:10px;
+margin-left:;
+margin-right:;
+
+	
+	
+}
+
+table, th, td{
+
+background-color:white; 
+ text-align:center;
+ font-family:arial;
+ border: 1px solid black;
+}
+
+
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #153881;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+
+nav li a:link{ color:white; text-decoration:none}
+
+nav li a:active{color:white;}
+
+
+nav li a:hover {
+    background-color: #4564A7;
+	
+}
+.activeNav {
+    background-color: #8099C9;
+}
+#video {alignment-adjust:center;
+		margin-top:20px;
+		margin-bottom: 20px;
+
+}
+
+#image {border-style: solid;
+	border-radius: 25px;
+    border-width: 5px;
+	color:black;
+	padding-right: 0px;
+  padding-left: 0px;
+  background-color:white;
+  text-align:center;
+  
+	}
+#imgdesign{border:1px solid #;
+-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 20px;
+}
+	
+#copyright:{float:right;}
+
+a:link{ color:blue; text-decoration:none}
+a:visited{ color:}
+a:hover{color:#ffffff; background-color:#3A87B1}
+a:active{color:yellow}
+
+
+h1{color: White;text-transform:uppercase}
+h2{color:white}
+h3{text-transform:capitalize; text-decoration: underline;}
+
